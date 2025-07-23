@@ -94,6 +94,8 @@ JSON
     "intensity": "IV"
   }
 ]
+
+```
 📥 Export Options
 Download CSV — Get current table as .csv
 
